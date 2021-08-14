@@ -1,0 +1,16 @@
+.bsbutton{
+    font-size: 2vh;
+    background-color: white;
+    color: #00e676;
+    font-weight: 500;
+    border: 3px solid #00e676;
+    padding: 8px 15px 8px 15px;
+}
+
+.bsbutton:hover{
+    background-color: #00e676;
+    color: white;
+    font-weight: 800;
+    border: 3px solid #00e676;
+}
+

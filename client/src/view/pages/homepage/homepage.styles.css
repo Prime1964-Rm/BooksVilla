@@ -1,0 +1,53 @@
+.homepage{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* background-color: whitesmoke; */
+    background-image: linear-gradient(#263238, #37474f);
+    overflow: visible;
+}
+
+.book-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-top: 2px solid #00e676;
+    border-bottom: 2px solid #00e676;
+    padding: 50px 0 50px 0;
+}
+
+.list-title{
+    /* border-top: 3px solid #00e676; */
+    /* border-bottom: 3px solid #00e676; */
+    /* color: #074e2c; */
+    color: white;
+    padding: 5px 5px 5px 5px;
+    width: max-content;
+}
+
+.list-title:before{
+    content:'\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0';
+    text-decoration: line-through;
+    margin: auto 0.5em;
+    color: #00e676;
+}
+
+
+.list-title:after {
+    content:'\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0';
+    text-decoration: line-through;
+    margin: auto 0.5em;
+    color: #00e676;
+    /* width: 100%; */
+  }
+
+.product-swiper-container{
+    width: 90%;
+}
+
+
+
+
