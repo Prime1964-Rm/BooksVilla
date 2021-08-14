@@ -65,7 +65,7 @@ const Routes = ({ authToken, setAuthToken }) => {
 
     return (
         <React.Fragment>
-            <Router>
+            <Router basename={process.env.PUBLIC_URL}>
                 <Switch>
 
                     {/* <PublicRoute exact path='/signup' restricted={true} component={RegisterUser} />
