@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/booksvilla/static/css/main.0ca477f9.chunk.css",
+    "main.js": "/booksvilla/static/js/main.7d9dfec8.chunk.js",
+    "main.js.map": "/booksvilla/static/js/main.7d9dfec8.chunk.js.map",
+    "runtime-main.js": "/booksvilla/static/js/runtime-main.ac57f39d.js",
+    "runtime-main.js.map": "/booksvilla/static/js/runtime-main.ac57f39d.js.map",
+    "static/css/2.d39cad94.chunk.css": "/booksvilla/static/css/2.d39cad94.chunk.css",
+    "static/js/2.f5c08d79.chunk.js": "/booksvilla/static/js/2.f5c08d79.chunk.js",
+    "static/js/2.f5c08d79.chunk.js.map": "/booksvilla/static/js/2.f5c08d79.chunk.js.map",
+    "static/js/3.75c4e970.chunk.js": "/booksvilla/static/js/3.75c4e970.chunk.js",
+    "static/js/3.75c4e970.chunk.js.map": "/booksvilla/static/js/3.75c4e970.chunk.js.map",
+    "index.html": "/booksvilla/index.html",
+    "static/css/2.d39cad94.chunk.css.map": "/booksvilla/static/css/2.d39cad94.chunk.css.map",
+    "static/css/main.0ca477f9.chunk.css.map": "/booksvilla/static/css/main.0ca477f9.chunk.css.map",
+    "static/js/2.f5c08d79.chunk.js.LICENSE.txt": "/booksvilla/static/js/2.f5c08d79.chunk.js.LICENSE.txt",
+    "static/media/booksvilla-highend2.15ff77e5.png": "/booksvilla/static/media/booksvilla-highend2.15ff77e5.png",
+    "static/media/facebook.b2616c03.svg": "/booksvilla/static/media/facebook.b2616c03.svg",
+    "static/media/insta.389f8bfc.svg": "/booksvilla/static/media/insta.389f8bfc.svg",
+    "static/media/linkedin.3ab0008f.svg": "/booksvilla/static/media/linkedin.3ab0008f.svg",
+    "static/media/logo.6ce24c58.svg": "/booksvilla/static/media/logo.6ce24c58.svg",
+    "static/media/twilight.befa7c26.pdf": "/booksvilla/static/media/twilight.befa7c26.pdf",
+    "static/media/youtube.fbc8fceb.svg": "/booksvilla/static/media/youtube.fbc8fceb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac57f39d.js",
+    "static/css/2.d39cad94.chunk.css",
+    "static/js/2.f5c08d79.chunk.js",
+    "static/css/main.0ca477f9.chunk.css",
+    "static/js/main.7d9dfec8.chunk.js"
+  ]
+}
